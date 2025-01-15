@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://youtu.be/Wssss">
-    <img alt="nebula" height="300" src="https://raw.githubusercontent.com/coderxsa/NEBULA-BOT/refs/heads/main/assets/bot_image.jpg">
+    <img alt="nebula" height="300" src="https://raw.githubusercontent.com/coderxsa/BOT-ASSETS/refs/heads/main/NEBULA-BOT/pic/bot_image.jpg">
     <h1 align="center">NEBULA-BOT1.0.0</h1>
   </a>
 </p>
