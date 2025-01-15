@@ -76,7 +76,7 @@ NEBULA-BOT- Simple Multi Device whatsapp bot.
 3. Now Deploy
    <br>
  <div align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/NEBULA-BOT">
+  <a href="https://heroku.com/deploy?template=https://github.com/coderxsa/NEBULA-BOT">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
   </a>
 </div>
