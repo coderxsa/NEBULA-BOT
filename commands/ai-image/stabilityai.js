@@ -1,0 +1,24 @@
+/*
+        ███    ██ ███████ ██████  ██    ██ ██       █████  
+        ████   ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██ ██  ██ █████   ██████  ██    ██ ██      ███████ 
+        ██  ██ ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██   ████ ███████ ██████   ██████  ███████ ██   ██                                               
+
+        *
+           * @project_name : Nebula
+           * @author : CODERXSA
+           * @youtube : https://www.youtube.com/@coderxsa
+           * @instagram : https://www.instagram.com/coderx.sa
+           * @description : So, if you remember me, I made Anita. Unfortunately, she's no longer working. RIP. My main code got corrupted, lost everything, so I made Nebula.
+           * @version : 1.0.0
+           * Donation : https://pay.yoco.com/coderx
+           * 
+           * For all my GitHub bots, I typically only check and update them when I have the time. My primary focus is on my main bots.
+           *
+           * Licensed under the GPL-3.0 License;
+        * 
+           * Created By CODERX.
+           * © 2025 Nebula.
+    */
+const _0x3147ad=_0x4d88;function _0x4d88(_0x14fae2,_0x2b034e){const _0x5d17fb=_0x5d17();return _0x4d88=function(_0x4d88e1,_0x5aaada){_0x4d88e1=_0x4d88e1-0x125;let _0x46fd=_0x5d17fb[_0x4d88e1];return _0x46fd;},_0x4d88(_0x14fae2,_0x2b034e);}(function(_0x3631b2,_0x31d718){const _0x1f93a9=_0x4d88,_0x3a70da=_0x3631b2();while(!![]){try{const _0x44eba8=parseInt(_0x1f93a9(0x128))/0x1+parseInt(_0x1f93a9(0x12e))/0x2*(parseInt(_0x1f93a9(0x143))/0x3)+parseInt(_0x1f93a9(0x129))/0x4+-parseInt(_0x1f93a9(0x140))/0x5+parseInt(_0x1f93a9(0x127))/0x6*(parseInt(_0x1f93a9(0x149))/0x7)+-parseInt(_0x1f93a9(0x13f))/0x8*(-parseInt(_0x1f93a9(0x13d))/0x9)+-parseInt(_0x1f93a9(0x13c))/0xa;if(_0x44eba8===_0x31d718)break;else _0x3a70da['push'](_0x3a70da['shift']());}catch(_0x8f44b){_0x3a70da['push'](_0x3a70da['shift']());}}}(_0x5d17,0x8ac93));const {quote:_0x3e6a7c}=require(_0x3147ad(0x131)),_0x42304e=require(_0x3147ad(0x137));function _0x5d17(){const _0x70dd04=['prefix','jKSxK','msg','ai-image','reply','mime-types','notFound','qlhEF','Prompt:\x20','join','18671070bNNOdl','9XVacuA','exports','1645376Gboioa','1582940rhNXfT','args','command','68217KSGcqd','lookup','tSlur','CjdVN','https://coderx-api.onrender.com/v1/aiimage/coderx/stabilityai?prompt=','UawHd','54887sXSdlh','⚠️\x20An\x20error\x20occurred:','generateCommandExample','coderx','FKACB','mycTz','642AAWacM','1011398JHlxsx','1783904CbwLux','_used','text','stability','handler','22QnmUIO','png','status','@mengkodingan/ckptw'];_0x5d17=function(){return _0x70dd04;};return _0x5d17();}module[_0x3147ad(0x13e)]={'name':'stabilityai','aliases':[_0x3147ad(0x12c)],'category':_0x3147ad(0x135),'handler':{'coin':[0x14,_0x3147ad(0x12b),0x1]},'code':async _0xec092b=>{const _0x5ad717=_0x3147ad,_0x8125bf={'OsPQD':function(_0x1c9a66,_0xad8cfb,_0x42ef49){return _0x1c9a66(_0xad8cfb,_0x42ef49);},'jKSxK':function(_0x532990,_0x493449){return _0x532990+_0x493449;},'vOVOM':function(_0x17d455,_0x11a2b0){return _0x17d455(_0x11a2b0);},'IjhCB':'send','tSlur':_0x5ad717(0x12b),'CjdVN':function(_0x6237cf,_0x327811){return _0x6237cf(_0x327811);},'mycTz':function(_0x4ce6e1,_0x19276d){return _0x4ce6e1+_0x19276d;},'FKACB':_0x5ad717(0x14c),'vPMCR':_0x5ad717(0x12f),'qlhEF':function(_0x5e166f,_0x1848d7){return _0x5e166f(_0x1848d7);},'UawHd':function(_0x37fb8b,_0x332501){return _0x37fb8b!==_0x332501;}};if(await _0x8125bf['OsPQD'](handler,_0xec092b,module[_0x5ad717(0x13e)][_0x5ad717(0x12d)]))return;const _0x54872f=_0xec092b[_0x5ad717(0x141)][_0x5ad717(0x13b)]('\x20')||null;if(!_0x54872f)return await _0xec092b['reply'](_0x8125bf['jKSxK'](_0x8125bf['vOVOM'](_0x3e6a7c,tools[_0x5ad717(0x134)]['generateInstruction']([_0x8125bf['IjhCB']],[_0x8125bf[_0x5ad717(0x145)]]))+'\x0a',_0x8125bf[_0x5ad717(0x146)](_0x3e6a7c,tools['msg'][_0x5ad717(0x14b)](_0x8125bf[_0x5ad717(0x126)](_0xec092b[_0x5ad717(0x12a)][_0x5ad717(0x132)],_0xec092b[_0x5ad717(0x12a)][_0x5ad717(0x142)]),_0x8125bf[_0x5ad717(0x125)]))));try{const _0x5006f9=_0x5ad717(0x147)+encodeURIComponent(_0x54872f);return await _0xec092b[_0x5ad717(0x136)]({'image':{'url':_0x5006f9},'mimetype':_0x42304e[_0x5ad717(0x144)](_0x8125bf['vPMCR']),'caption':_0x8125bf['mycTz'](_0x8125bf[_0x5ad717(0x133)](_0x8125bf[_0x5ad717(0x139)](_0x3e6a7c,_0x5ad717(0x13a)+_0x54872f)+'\x0a','\x0a'),config['msg']['footer'])});}catch(_0x567bcc){if(_0x8125bf[_0x5ad717(0x148)](_0x567bcc[_0x5ad717(0x130)],0xc8))return await _0xec092b['reply'](config[_0x5ad717(0x134)][_0x5ad717(0x138)]);return await _0xec092b[_0x5ad717(0x136)](_0x3e6a7c(_0x5ad717(0x14a)));}}};

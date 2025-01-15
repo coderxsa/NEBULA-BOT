@@ -1,0 +1,24 @@
+/*
+        ███    ██ ███████ ██████  ██    ██ ██       █████  
+        ████   ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██ ██  ██ █████   ██████  ██    ██ ██      ███████ 
+        ██  ██ ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██   ████ ███████ ██████   ██████  ███████ ██   ██                                               
+
+        *
+           * @project_name : Nebula
+           * @author : CODERXSA
+           * @youtube : https://www.youtube.com/@coderxsa
+           * @instagram : https://www.instagram.com/coderx.sa
+           * @description : So, if you remember me, I made Anita. Unfortunately, she's no longer working. RIP. My main code got corrupted, lost everything, so I made Nebula.
+           * @version : 1.0.0
+           * Donation : https://pay.yoco.com/coderx
+           * 
+           * For all my GitHub bots, I typically only check and update them when I have the time. My primary focus is on my main bots.
+           *
+           * Licensed under the GPL-3.0 License;
+        * 
+           * Created By CODERX.
+           * © 2025 Nebula.
+    */
+const _0x31881b=_0x50aa;(function(_0x3d946d,_0x313704){const _0x5322ca=_0x50aa,_0x58a3d6=_0x3d946d();while(!![]){try{const _0x35304e=parseInt(_0x5322ca(0x197))/0x1+-parseInt(_0x5322ca(0x195))/0x2+-parseInt(_0x5322ca(0x1a4))/0x3+-parseInt(_0x5322ca(0x18c))/0x4*(parseInt(_0x5322ca(0x191))/0x5)+parseInt(_0x5322ca(0x18f))/0x6+-parseInt(_0x5322ca(0x17c))/0x7+parseInt(_0x5322ca(0x17f))/0x8;if(_0x35304e===_0x313704)break;else _0x58a3d6['push'](_0x58a3d6['shift']());}catch(_0xa7d7d2){_0x58a3d6['push'](_0x58a3d6['shift']());}}}(_0x2e32,0x98f80));function _0x50aa(_0x468a15,_0x4962e4){const _0x2e3211=_0x2e32();return _0x50aa=function(_0x50aacf,_0x3beb6c){_0x50aacf=_0x50aacf-0x17c;let _0x282c1b=_0x2e3211[_0x50aacf];return _0x282c1b;},_0x50aa(_0x468a15,_0x4962e4);}const {quote:_0x1db5c1}=require(_0x31881b(0x189)),_0x5d007e=require('axios'),_0x85416a=require('mime-types');module['exports']={'name':'facebookdl','aliases':[_0x31881b(0x188),'fb','fbdl'],'category':_0x31881b(0x187),'handler':{'coin':[0xa,_0x31881b(0x19a),0x1]},'code':async _0x5b0bd6=>{const _0x15c178=_0x31881b,_0x317421={'lJMdv':function(_0x1893e3,_0x5cf326,_0x1fed9a){return _0x1893e3(_0x5cf326,_0x1fed9a);},'meXFe':function(_0x465451,_0x51c161){return _0x465451+_0x51c161;},'wcSMU':_0x15c178(0x186),'gtmWw':_0x15c178(0x19d),'TBYTM':function(_0x70b02,_0x3c834f){return _0x70b02(_0x3c834f);},'BKrRj':_0x15c178(0x180)};if(await _0x317421[_0x15c178(0x1a3)](handler,_0x5b0bd6,module[_0x15c178(0x18d)][_0x15c178(0x19c)]))return;const _0x3728db=_0x5b0bd6[_0x15c178(0x19f)][0x0]||null;if(!_0x3728db)return await _0x5b0bd6[_0x15c178(0x18b)](_0x317421['meXFe'](tools[_0x15c178(0x193)][_0x15c178(0x185)]([_0x317421['wcSMU']],[_0x15c178(0x19a)])+'\x0a',tools[_0x15c178(0x193)][_0x15c178(0x194)](''+_0x5b0bd6[_0x15c178(0x1a1)][_0x15c178(0x184)]+_0x5b0bd6[_0x15c178(0x1a1)]['command'],_0x317421[_0x15c178(0x17d)])));const _0xf23434=await tools['general']['isUrl'](_0x3728db);if(!_0xf23434)return await _0x5b0bd6[_0x15c178(0x18b)](config[_0x15c178(0x193)]['urlInvalid']);try{const _0xfbd30a=_0x15c178(0x192)+_0x317421[_0x15c178(0x17e)](encodeURIComponent,_0x3728db),_0x41a211=await _0x5d007e[_0x15c178(0x18e)](_0xfbd30a),_0x776119=_0x41a211[_0x15c178(0x19b)];if(_0x776119[_0x15c178(0x1a2)]&&_0x776119['video']&&_0x776119[_0x15c178(0x181)][_0x15c178(0x198)]){const _0x4a4e31=_0x776119[_0x15c178(0x181)][_0x15c178(0x198)][_0x15c178(0x18a)](_0x314f84=>_0x314f84[_0x15c178(0x19e)]==='720p(HD)')||_0x776119[_0x15c178(0x181)][_0x15c178(0x198)][0x0];if(_0x4a4e31&&_0x4a4e31[_0x15c178(0x190)])return await _0x5b0bd6[_0x15c178(0x18b)]({'video':{'url':_0x4a4e31[_0x15c178(0x190)]},'mimetype':_0x317421[_0x15c178(0x1a0)],'caption':_0x15c178(0x199)+_0x3728db+'\x0a\x0a'+config[_0x15c178(0x193)][_0x15c178(0x182)]});}return await _0x5b0bd6[_0x15c178(0x18b)](config[_0x15c178(0x193)][_0x15c178(0x183)]);}catch(_0x5a97f2){return await _0x5b0bd6[_0x15c178(0x18b)](_0x15c178(0x196));}}};function _0x2e32(){const _0x2449c6=['1975482WAafPK','⚠️\x20An\x20error\x20occurred\x20while\x20processing\x20your\x20request.\x20Please\x20try\x20again\x20later.','181153daExFz','downloads','URL:\x20','text','data','handler','https://www.facebook.com/share/v/15fNp5gHK4/','quality','args','BKrRj','_used','success','lJMdv','2261661rxBqoQ','1054837NStkKW','gtmWw','TBYTM','19995496hvkbwg','video/mp4','video','footer','notFound','prefix','generateInstruction','send','downloader','facebook','@mengkodingan/ckptw','find','reply','759732vNBxew','exports','get','3588126zqBgMz','downloadUrl','20bTtHCD','https://coderx-api.onrender.com/v1/downloaders/coderx/download/facebook?url=','msg','generateCommandExample'];_0x2e32=function(){return _0x2449c6;};return _0x2e32();}
