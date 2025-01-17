@@ -1,0 +1,24 @@
+/*
+        ███    ██ ███████ ██████  ██    ██ ██       █████  
+        ████   ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██ ██  ██ █████   ██████  ██    ██ ██      ███████ 
+        ██  ██ ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██   ████ ███████ ██████   ██████  ███████ ██   ██                                               
+
+        *
+           * @project_name : Nebula
+           * @author : CODERXSA
+           * @youtube : https://www.youtube.com/@coderxsa
+           * @instagram : https://www.instagram.com/coderx.sa
+           * @description : So, if you remember me, I made Anita. Unfortunately, she's no longer working. RIP. My main code got corrupted, lost everything, so I made Nebula.
+           * @version : 1.0.0
+           * Donation : https://pay.yoco.com/coderx
+           * 
+           * For all my GitHub bots, I typically only check and update them when I have the time. My primary focus is on my main bots.
+           *
+           * Licensed under the GPL-3.0 License;
+        * 
+           * Created By CODERX.
+           * © 2025 Nebula.
+    */
+function _0x4644(_0x2380bb,_0x4ed396){const _0x522a61=_0x522a();return _0x4644=function(_0x464439,_0x547da7){_0x464439=_0x464439-0x14f;let _0x270546=_0x522a61[_0x464439];return _0x270546;},_0x4644(_0x2380bb,_0x4ed396);}const _0x2cf0b8=_0x4644;(function(_0x3a2d95,_0x2ea315){const _0x5e2d35=_0x4644,_0x28f273=_0x3a2d95();while(!![]){try{const _0x492152=parseInt(_0x5e2d35(0x158))/0x1*(-parseInt(_0x5e2d35(0x15d))/0x2)+-parseInt(_0x5e2d35(0x15a))/0x3+parseInt(_0x5e2d35(0x153))/0x4+parseInt(_0x5e2d35(0x150))/0x5*(-parseInt(_0x5e2d35(0x16f))/0x6)+parseInt(_0x5e2d35(0x170))/0x7*(parseInt(_0x5e2d35(0x173))/0x8)+-parseInt(_0x5e2d35(0x168))/0x9+-parseInt(_0x5e2d35(0x159))/0xa*(-parseInt(_0x5e2d35(0x162))/0xb);if(_0x492152===_0x2ea315)break;else _0x28f273['push'](_0x28f273['shift']());}catch(_0x7700dc){_0x28f273['push'](_0x28f273['shift']());}}}(_0x522a,0xae6fc));function _0x522a(){const _0x47b9d9=['handler','eKEUe','6VxeDTF','2433830myqxOa','coin','.begSuccess','8gQWHNQ','Otqrc','exports','Btpcp','4921555eRFqMM','xBfJY','general','1280408BnqdVn','.lastBeg','split','user.','GDSQD','106025KeTsQB','840ZCenEB','3351873VpgYry','economy','get','16jIeEWD','@mengkodingan/ckptw','reply','all','now','427559wjELwv','\x20coins**!','floor','sender','lastBeg','.coin','2416446jeibQs','add','SMqrG','set','convertMsToDuration'];_0x522a=function(){return _0x47b9d9;};return _0x522a();}const {monospace:_0x31d4f0,quote:_0x5a312b}=require(_0x2cf0b8(0x15e));module[_0x2cf0b8(0x175)]={'name':'beg','category':_0x2cf0b8(0x15b),'handler':{},'code':async _0x523631=>{const _0x5ec98a=_0x2cf0b8,_0x2e108a={'xBfJY':function(_0x7b4aa9,_0x1200db,_0x19086f){return _0x7b4aa9(_0x1200db,_0x19086f);},'SMqrG':function(_0x35ae8c,_0x1d1a41){return _0x35ae8c-_0x1d1a41;},'yVCey':function(_0x51ef9f,_0x3b0bda){return _0x51ef9f-_0x3b0bda;},'Btpcp':function(_0x2f7ff2,_0xa9fe14){return _0x2f7ff2*_0xa9fe14;},'Otqrc':function(_0x44243d,_0x38b449){return _0x44243d>_0x38b449;},'GDSQD':function(_0x18306b,_0x5a12dc){return _0x18306b(_0x5a12dc);},'eKEUe':function(_0x17e539,_0x13b426){return _0x17e539+_0x13b426;},'Hdmvh':function(_0x21b941,_0x1bf5b9){return _0x21b941(_0x1bf5b9);}};if(await _0x2e108a[_0x5ec98a(0x151)](handler,_0x523631,module[_0x5ec98a(0x175)][_0x5ec98a(0x16d)]))return;const _0x488aa5=_0x523631[_0x5ec98a(0x165)]['jid'][_0x5ec98a(0x155)](/[:@]/)[0x0],_0x543a3e=await db[_0x5ec98a(0x15c)](_0x5ec98a(0x156)+_0x488aa5)||{},_0x1a1734=_0x543a3e?.[_0x5ec98a(0x166)]||0x0,_0x3d5cf9=Date[_0x5ec98a(0x161)](),_0x28ea36=_0x2e108a[_0x5ec98a(0x16a)](_0x3d5cf9,_0x1a1734),_0x4d1054=_0x2e108a['yVCey'](_0x2e108a[_0x5ec98a(0x14f)](0x14*0x3c,0x3e8),_0x28ea36);if(_0x2e108a[_0x5ec98a(0x174)](_0x4d1054,0x0))return await _0x523631['reply'](_0x2e108a[_0x5ec98a(0x157)](_0x5a312b,'⏳\x20You\x20can\x20beg\x20again\x20in\x20'+tools[_0x5ec98a(0x152)][_0x5ec98a(0x16c)](_0x4d1054)+'.'));const _0x412905=_0x2e108a[_0x5ec98a(0x16e)](Math[_0x5ec98a(0x164)](Math['random']()*_0x2e108a[_0x5ec98a(0x16e)](_0x2e108a['SMqrG'](0x32,0x5),0x1)),0x5);return await Promise[_0x5ec98a(0x160)]([db[_0x5ec98a(0x16b)]('user.'+_0x488aa5+_0x5ec98a(0x167),_0x2e108a['eKEUe'](_0x543a3e[_0x5ec98a(0x171)]||0x0,_0x412905)),db['set'](_0x5ec98a(0x156)+_0x488aa5+_0x5ec98a(0x154),_0x3d5cf9),db[_0x5ec98a(0x169)](_0x5ec98a(0x156)+_0x488aa5+_0x5ec98a(0x172),0x1)]),await _0x523631[_0x5ec98a(0x15f)](_0x2e108a['Hdmvh'](_0x5a312b,'🙏\x20Someone\x20took\x20pity\x20on\x20you\x20and\x20gave\x20you\x20**'+_0x412905+_0x5ec98a(0x163)));}};
