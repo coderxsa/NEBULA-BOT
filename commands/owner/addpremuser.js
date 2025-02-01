@@ -1,0 +1,24 @@
+/*
+        ███    ██ ███████ ██████  ██    ██ ██       █████  
+        ████   ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██ ██  ██ █████   ██████  ██    ██ ██      ███████ 
+        ██  ██ ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██   ████ ███████ ██████   ██████  ███████ ██   ██                                               
+
+        *
+           * @project_name : Nebula
+           * @author : CODERXSA
+           * @youtube : https://www.youtube.com/@coderxsa
+           * @instagram : https://www.instagram.com/coderx.sa
+           * @description : So, if you remember me, I made Anita. Unfortunately, she's no longer working. RIP. My main code got corrupted, lost everything, so I made Nebula.
+           * @version : 1.0.0
+           * Donation : https://pay.yoco.com/coderx
+           * 
+           * For all my GitHub bots, I typically only check and update them when I have the time. My primary focus is on my main bots.
+           *
+           * Licensed under the GPL-3.0 License;
+        * 
+           * Created By CODERX.
+           * © 2025 Nebula.
+    */
+const _0x43c429=_0x4c34;(function(_0xcb11d3,_0x3eec6e){const _0x3dc6e8=_0x4c34,_0x26fe78=_0xcb11d3();while(!![]){try{const _0x5f4112=-parseInt(_0x3dc6e8(0xf4))/0x1+-parseInt(_0x3dc6e8(0x118))/0x2+parseInt(_0x3dc6e8(0xf9))/0x3+-parseInt(_0x3dc6e8(0x11b))/0x4*(parseInt(_0x3dc6e8(0x10a))/0x5)+parseInt(_0x3dc6e8(0x115))/0x6+-parseInt(_0x3dc6e8(0x11a))/0x7+parseInt(_0x3dc6e8(0xfe))/0x8*(parseInt(_0x3dc6e8(0xfc))/0x9);if(_0x5f4112===_0x3eec6e)break;else _0x26fe78['push'](_0x26fe78['shift']());}catch(_0x40fac3){_0x26fe78['push'](_0x26fe78['shift']());}}}(_0x4ee3,0xa7a04));const {quote:_0x18ffeb}=require(_0x43c429(0x109));function _0x4ee3(){const _0x1b8dad=['⚠️\x20An\x20error\x20occurred:','4623510GjBHry','user.','❎\x20The\x20account\x20does\x20not\x20exist\x20on\x20WhatsApp.','1847450mMbhJq','reply','9454522ANILab','62184yCsUwK','sendMessage','args','addprem','447174QCjqDT','uGaUb','text','generateInstruction','🎉\x20You\x20have\x20been\x20added\x20as\x20a\x20Premium\x20user\x20by\x20the\x20Owner!','3251784QkARDl','command','isArray','189umPthk','exports','793216oCXefN','msg','jid','contextInfo','prefix','_used','@s.whatsapp.net','handler','HTNnt','.premium','message','@mengkodingan/ckptw','170fCDBdM','send','sender','apu','✅\x20Successfully\x20added\x20as\x20a\x20Premium\x20user!','FPLyv','generateCommandExample','length','split','extendedTextMessage'];_0x4ee3=function(){return _0x1b8dad;};return _0x4ee3();}function _0x4c34(_0x3d39af,_0x18dabe){const _0x4ee346=_0x4ee3();return _0x4c34=function(_0x4c343c,_0x4d30ec){_0x4c343c=_0x4c343c-0xf2;let _0x5dd0ea=_0x4ee346[_0x4c343c];return _0x5dd0ea;},_0x4c34(_0x3d39af,_0x18dabe);}module['exports']={'name':'addpremuser','aliases':[_0x43c429(0xf3),_0x43c429(0x10d)],'category':'owner','handler':{'owner':!![]},'code':async _0x26b412=>{const _0x5b2a54=_0x43c429,_0x272195={'HTNnt':function(_0x4bb455,_0xee2732){return _0x4bb455>_0xee2732;},'FPLyv':function(_0x291b8c,_0x590cae){return _0x291b8c+_0x590cae;},'uGaUb':_0x5b2a54(0xf6),'tUjsw':function(_0x3e198c,_0x1bdc72){return _0x3e198c(_0x1bdc72);},'aAFYO':function(_0x1e6e52,_0x35bd93){return _0x1e6e52(_0x35bd93);}};if(await handler(_0x26b412,module[_0x5b2a54(0xfd)][_0x5b2a54(0x105)]))return;const _0x1b61f9=_0x26b412[_0x5b2a54(0xf2)][0x0],_0x10e743=_0x26b412[_0x5b2a54(0x10c)][_0x5b2a54(0x100)],_0x9b3ce1=_0x10e743[_0x5b2a54(0x112)](/[:@]/)[0x0],_0x200a95=_0x26b412['msg']?.[_0x5b2a54(0x108)]?.[_0x5b2a54(0x113)]?.[_0x5b2a54(0x101)]?.['mentionedJid'],_0x49f9d8=Array[_0x5b2a54(0xfb)](_0x200a95)&&_0x272195[_0x5b2a54(0x106)](_0x200a95[_0x5b2a54(0x111)],0x0)?_0x200a95[0x0]:_0x1b61f9?_0x1b61f9+_0x5b2a54(0x104):null;if(!_0x49f9d8)return await _0x26b412[_0x5b2a54(0x119)]({'text':_0x272195[_0x5b2a54(0x10f)](_0x18ffeb(tools[_0x5b2a54(0xff)][_0x5b2a54(0xf7)]([_0x5b2a54(0x10b)],[_0x272195[_0x5b2a54(0xf5)]]))+'\x0a',_0x272195['tUjsw'](_0x18ffeb,tools[_0x5b2a54(0xff)][_0x5b2a54(0x110)](_0x272195[_0x5b2a54(0x10f)](_0x26b412['_used'][_0x5b2a54(0x102)],_0x26b412[_0x5b2a54(0x103)][_0x5b2a54(0xfa)]),'@'+_0x9b3ce1))),'mentions':[_0x10e743]});try{const [_0x177c58]=await _0x26b412['_client']['onWhatsApp'](_0x49f9d8);if(!_0x177c58['exists'])return await _0x26b412[_0x5b2a54(0x119)](_0x18ffeb(_0x5b2a54(0x117)));return await db['set'](_0x5b2a54(0x116)+_0x49f9d8[_0x5b2a54(0x112)]('@')[0x0]+_0x5b2a54(0x107),!![]),await _0x26b412[_0x5b2a54(0x11c)](_0x49f9d8,{'text':_0x18ffeb(_0x5b2a54(0xf8))}),await _0x26b412['reply'](_0x272195['aAFYO'](_0x18ffeb,_0x5b2a54(0x10e)));}catch(_0x55b537){return await _0x26b412['reply'](_0x18ffeb(_0x5b2a54(0x114)));}}};

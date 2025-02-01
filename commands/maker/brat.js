@@ -1,0 +1,24 @@
+/*
+        ███    ██ ███████ ██████  ██    ██ ██       █████  
+        ████   ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██ ██  ██ █████   ██████  ██    ██ ██      ███████ 
+        ██  ██ ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██   ████ ███████ ██████   ██████  ███████ ██   ██                                               
+
+        *
+           * @project_name : Nebula
+           * @author : CODERXSA
+           * @youtube : https://www.youtube.com/@coderxsa
+           * @instagram : https://www.instagram.com/coderx.sa
+           * @description : So, if you remember me, I made Anita. Unfortunately, she's no longer working. RIP. My main code got corrupted, lost everything, so I made Nebula.
+           * @version : 1.0.0
+           * Donation : https://pay.yoco.com/coderx
+           * 
+           * For all my GitHub bots, I typically only check and update them when I have the time. My primary focus is on my main bots.
+           *
+           * Licensed under the GPL-3.0 License;
+        * 
+           * Created By CODERX.
+           * © 2025 Nebula.
+    */
+const _0x4cc554=_0x544b;(function(_0xf132fc,_0x5efa5b){const _0x1a068a=_0x544b,_0x17c464=_0xf132fc();while(!![]){try{const _0x589f51=-parseInt(_0x1a068a(0x10d))/0x1+parseInt(_0x1a068a(0xfd))/0x2*(-parseInt(_0x1a068a(0xfa))/0x3)+parseInt(_0x1a068a(0x110))/0x4+-parseInt(_0x1a068a(0x10b))/0x5+parseInt(_0x1a068a(0x101))/0x6*(parseInt(_0x1a068a(0xef))/0x7)+-parseInt(_0x1a068a(0xf0))/0x8*(parseInt(_0x1a068a(0x102))/0x9)+parseInt(_0x1a068a(0xf4))/0xa*(parseInt(_0x1a068a(0x103))/0xb);if(_0x589f51===_0x5efa5b)break;else _0x17c464['push'](_0x17c464['shift']());}catch(_0x325b5a){_0x17c464['push'](_0x17c464['shift']());}}}(_0x5da5,0x7cfc6));const {quote:_0x1e5fb3}=require('@mengkodingan/ckptw'),{Sticker:_0x54ae69,StickerTypes:_0x57b8bc}=require('wa-sticker-formatter');function _0x544b(_0x1c7f69,_0x1ea5ec){const _0x5da5d4=_0x5da5();return _0x544b=function(_0x544ba6,_0x1c8b87){_0x544ba6=_0x544ba6-0xee;let _0x4a6627=_0x5da5d4[_0x544ba6];return _0x4a6627;},_0x544b(_0x1c7f69,_0x1ea5ec);}module[_0x4cc554(0xf9)]={'name':_0x4cc554(0x117),'aliases':['sbrat'],'category':_0x4cc554(0xf1),'handler':{'coin':[0xa,'text',0x1]},'code':async _0x588552=>{const _0x1195f6=_0x4cc554,_0x442f5b={'OKEwd':function(_0x471172,_0x19d4c0,_0x5da9a5){return _0x471172(_0x19d4c0,_0x5da9a5);},'hpCPk':function(_0x2c7425,_0x44492f){return _0x2c7425(_0x44492f);},'IhGiv':_0x1195f6(0x108),'LKxhA':_0x1195f6(0xee),'BFEFO':function(_0x7b3086,_0x584e6a){return _0x7b3086(_0x584e6a);},'ajRzz':_0x1195f6(0x118),'eheSW':_0x1195f6(0xf7),'mTHqd':function(_0x8ad93e,_0x6ca272){return _0x8ad93e(_0x6ca272);}};if(await _0x442f5b[_0x1195f6(0xff)](handler,_0x588552,module[_0x1195f6(0xf9)][_0x1195f6(0x100)]))return;const _0x259fb5=_0x588552[_0x1195f6(0x10e)][_0x1195f6(0xf8)]('\x20')||null;if(!_0x259fb5)return await _0x588552['reply'](_0x442f5b[_0x1195f6(0x10f)](_0x1e5fb3,tools['msg'][_0x1195f6(0xfe)]([_0x442f5b[_0x1195f6(0x116)]],[_0x442f5b[_0x1195f6(0x11a)]]))+'\x0a'+_0x442f5b[_0x1195f6(0x104)](_0x1e5fb3,tools[_0x1195f6(0x114)][_0x1195f6(0x106)](_0x588552['_used'][_0x1195f6(0xf6)]+_0x588552[_0x1195f6(0xfb)][_0x1195f6(0xfc)],'get\x20in\x20the\x20fucking\x20robot,\x20shinji!')));if(_0x259fb5[_0x1195f6(0x107)]>0x2710)return await _0x588552[_0x1195f6(0x10c)](_0x1e5fb3(_0x1195f6(0x10a)));try{const _0x1f92fb=tools[_0x1195f6(0x119)][_0x1195f6(0x109)](_0x442f5b['ajRzz'],_0x442f5b[_0x1195f6(0xf3)],{'text':_0x259fb5}),_0x9036d8=new _0x54ae69(_0x1f92fb,{'pack':config[_0x1195f6(0xf5)][_0x1195f6(0x113)],'author':config[_0x1195f6(0xf5)][_0x1195f6(0x105)],'type':_0x57b8bc[_0x1195f6(0x115)],'categories':['🌕'],'id':_0x588552['id'],'quality':0x32});return await _0x588552['reply'](await _0x9036d8[_0x1195f6(0xf2)]());}catch(_0x2d2600){if(_0x2d2600['status']!==0xc8)return await _0x588552[_0x1195f6(0x10c)](config[_0x1195f6(0x114)]['notFound']);return await _0x588552[_0x1195f6(0x10c)](_0x442f5b[_0x1195f6(0x112)](_0x1e5fb3,_0x1195f6(0x111)));}}};function _0x5da5(){const _0x4bec38=['author','generateCommandExample','length','send','createUrl','❎\x20Maximum\x2050\x20words!','4496510yOUFcm','reply','483729YPUllI','args','hpCPk','701280wXNCIf','⚠️\x20There\x20is\x20an\x20error:\x20','mTHqd','packname','msg','FULL','IhGiv','brat','https://brat.caliphdev.com','api','LKxhA','text','5505339xCoaQD','16ypCaxr','maker','toMessage','eheSW','10BSXOhA','sticker','prefix','/api/brat','join','exports','5883CnnqIx','_used','command','886JXdayM','generateInstruction','OKEwd','handler','6IZUVQo','3952926qtZFEo','29483597LgxkON','BFEFO'];_0x5da5=function(){return _0x4bec38;};return _0x5da5();}
