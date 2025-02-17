@@ -1,0 +1,24 @@
+/*
+        ███    ██ ███████ ██████  ██    ██ ██       █████  
+        ████   ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██ ██  ██ █████   ██████  ██    ██ ██      ███████ 
+        ██  ██ ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██   ████ ███████ ██████   ██████  ███████ ██   ██                                               
+
+        *
+           * @project_name : Nebula
+           * @author : CODERXSA
+           * @youtube : https://www.youtube.com/@coderxsa
+           * @instagram : https://www.instagram.com/coderx.sa
+           * @description : So, if you remember me, I made Anita. Unfortunately, she's no longer working. RIP. My main code got corrupted, lost everything, so I made Nebula.
+           * @version : 1.0.0
+           * Donation : https://pay.yoco.com/coderx
+           * 
+           * For all my GitHub bots, I typically only check and update them when I have the time. My primary focus is on my main bots.
+           *
+           * Licensed under the GPL-3.0 License;
+        * 
+           * Created By CODERX.
+           * © 2025 Nebula.
+    */
+const _0x3cd033=_0x3ca9;(function(_0x17a8b9,_0x32dda6){const _0x273a23=_0x3ca9,_0x47dc41=_0x17a8b9();while(!![]){try{const _0x431fdb=-parseInt(_0x273a23(0x159))/0x1+parseInt(_0x273a23(0x169))/0x2*(-parseInt(_0x273a23(0x14e))/0x3)+parseInt(_0x273a23(0x167))/0x4+parseInt(_0x273a23(0x14f))/0x5*(parseInt(_0x273a23(0x15f))/0x6)+parseInt(_0x273a23(0x16f))/0x7+-parseInt(_0x273a23(0x157))/0x8+parseInt(_0x273a23(0x173))/0x9;if(_0x431fdb===_0x32dda6)break;else _0x47dc41['push'](_0x47dc41['shift']());}catch(_0x49ed5c){_0x47dc41['push'](_0x47dc41['shift']());}}}(_0x31a6,0xa6728));const {quote:_0x3e90ad}=require(_0x3cd033(0x162)),_0x1c32ef=require(_0x3cd033(0x166)),_0x1de77c=require(_0x3cd033(0x175));module[_0x3cd033(0x149)]={'name':_0x3cd033(0x16b),'aliases':[_0x3cd033(0x171)],'category':_0x3cd033(0x16a),'handler':{'coin':[0xa,_0x3cd033(0x15c),0x1]},'code':async _0xeaa70a=>{const _0x79f454=_0x3cd033,_0x189bde={'oKQMH':function(_0x152897,_0x314d86,_0x509ec3){return _0x152897(_0x314d86,_0x509ec3);},'weyih':function(_0x2eecab,_0x1aa385){return _0x2eecab+_0x1aa385;},'olecR':function(_0xede94c,_0x7a7b55){return _0xede94c(_0x7a7b55);},'TgKSy':_0x79f454(0x15c),'vZQeE':function(_0x536e32,_0x546456){return _0x536e32(_0x546456);},'IcNlA':'siputzx','MoCVg':_0x79f454(0x158),'aNLwS':_0x79f454(0x174),'EKoGX':function(_0x2f5097,_0x5d86c2){return _0x2f5097!==_0x5d86c2;}};if(await _0x189bde[_0x79f454(0x156)](handler,_0xeaa70a,module[_0x79f454(0x149)]['handler']))return;const _0x3edd24=_0xeaa70a[_0x79f454(0x168)][0x0]||null;if(!_0x3edd24)return await _0xeaa70a[_0x79f454(0x150)](_0x189bde[_0x79f454(0x15e)](_0x189bde['olecR'](_0x3e90ad,tools[_0x79f454(0x155)][_0x79f454(0x165)]([_0x79f454(0x170)],[_0x189bde[_0x79f454(0x164)]]))+'\x0a',_0x189bde[_0x79f454(0x176)](_0x3e90ad,tools[_0x79f454(0x155)][_0x79f454(0x153)](_0x189bde[_0x79f454(0x15e)](_0xeaa70a[_0x79f454(0x154)]['prefix'],_0xeaa70a[_0x79f454(0x154)][_0x79f454(0x14d)]),_0x79f454(0x14b)))));const _0x2aed7c=await tools[_0x79f454(0x14c)][_0x79f454(0x163)](_0x3edd24);if(!_0x2aed7c)return await _0xeaa70a['reply'](config['msg'][_0x79f454(0x15a)]);try{const _0x5d7f6a=tools[_0x79f454(0x172)][_0x79f454(0x14a)](_0x189bde[_0x79f454(0x16c)],_0x189bde[_0x79f454(0x16e)],{'url':_0x3edd24}),{data:_0x352277}=(await _0x1c32ef[_0x79f454(0x151)](_0x5d7f6a))[_0x79f454(0x15b)];return await _0xeaa70a[_0x79f454(0x150)]({'audio':{'url':_0x352277[_0x79f454(0x161)]},'mimetype':_0x1de77c['lookup'](_0x189bde[_0x79f454(0x15d)])});}catch(_0xd7074f){if(_0x189bde[_0x79f454(0x16d)](_0xd7074f['status'],0xc8))return await _0xeaa70a[_0x79f454(0x150)](config['msg'][_0x79f454(0x160)]);return await _0xeaa70a['reply'](_0x189bde[_0x79f454(0x176)](_0x3e90ad,_0x79f454(0x152)));}}};function _0x3ca9(_0x559a27,_0x3358e1){const _0x31a6d6=_0x31a6();return _0x3ca9=function(_0x3ca9f1,_0x451aca){_0x3ca9f1=_0x3ca9f1-0x149;let _0x18a666=_0x31a6d6[_0x3ca9f1];return _0x18a666;},_0x3ca9(_0x559a27,_0x3358e1);}function _0x31a6(){const _0x53f936=['createUrl','https://example.com/','general','command','75324jOqVSE','1175DfoeGb','reply','get','⚠️\x20An\x20error\x20occurred:','generateCommandExample','_used','msg','oKQMH','7443440bxlhfz','/api/d/soundcloud','1227368JZtvhz','urlInvalid','data','text','aNLwS','weyih','30rwhVhA','notFound','url','@mengkodingan/ckptw','isUrl','TgKSy','generateInstruction','axios','3256984RnkYru','args','34okLplh','downloader','soundclouddl','IcNlA','EKoGX','MoCVg','5510736gsWASP','send','scdl','api','14973597nAmJfb','mp3','mime-types','vZQeE','exports'];_0x31a6=function(){return _0x53f936;};return _0x31a6();}

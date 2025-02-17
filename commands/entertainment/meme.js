@@ -1,0 +1,24 @@
+/*
+        ███    ██ ███████ ██████  ██    ██ ██       █████  
+        ████   ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██ ██  ██ █████   ██████  ██    ██ ██      ███████ 
+        ██  ██ ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██   ████ ███████ ██████   ██████  ███████ ██   ██                                               
+
+        *
+           * @project_name : Nebula
+           * @author : CODERXSA
+           * @youtube : https://www.youtube.com/@coderxsa
+           * @instagram : https://www.instagram.com/coderx.sa
+           * @description : So, if you remember me, I made Anita. Unfortunately, she's no longer working. RIP. My main code got corrupted, lost everything, so I made Nebula.
+           * @version : 1.0.0
+           * Donation : https://pay.yoco.com/coderx
+           * 
+           * For all my GitHub bots, I typically only check and update them when I have the time. My primary focus is on my main bots.
+           *
+           * Licensed under the GPL-3.0 License;
+        * 
+           * Created By CODERX.
+           * © 2025 Nebula.
+    */
+const _0x59dae7=_0x3e63;(function(_0x31faae,_0x3e88e4){const _0x304e4e=_0x3e63,_0x2e271f=_0x31faae();while(!![]){try{const _0xba4cef=-parseInt(_0x304e4e(0xc7))/0x1+parseInt(_0x304e4e(0xb8))/0x2*(parseInt(_0x304e4e(0x9e))/0x3)+-parseInt(_0x304e4e(0xa7))/0x4*(-parseInt(_0x304e4e(0xbd))/0x5)+-parseInt(_0x304e4e(0xaf))/0x6+-parseInt(_0x304e4e(0xbf))/0x7+parseInt(_0x304e4e(0xb1))/0x8*(-parseInt(_0x304e4e(0xa3))/0x9)+parseInt(_0x304e4e(0xbb))/0xa;if(_0xba4cef===_0x3e88e4)break;else _0x2e271f['push'](_0x2e271f['shift']());}catch(_0x2bc796){_0x2e271f['push'](_0x2e271f['shift']());}}}(_0x5cc0,0xcc586));const {quote:_0x2129db}=require(_0x59dae7(0xb7)),_0x27843d=require(_0x59dae7(0xac)),_0x42e6e1=require(_0x59dae7(0xab));module['exports']={'name':_0x59dae7(0x9f),'category':'entertainment','handler':{'coin':0xa},'code':async _0x21dbdb=>{const _0xb8f7c7=_0x59dae7,_0x59dc0c={'DKUuW':_0xb8f7c7(0xbc),'CFqtN':_0xb8f7c7(0xca),'XXEjm':function(_0x2fb1f5,_0x24b026){return _0x2fb1f5===_0x24b026;},'Ibtqv':_0xb8f7c7(0xa4),'FQXYz':function(_0x16c6db,_0x5f337b){return _0x16c6db===_0x5f337b;},'GYXBz':'jpeg','eekHF':_0xb8f7c7(0xc1),'azumM':function(_0x45eebb,_0xe4bc63){return _0x45eebb===_0xe4bc63;},'xhdcZ':_0xb8f7c7(0xa1),'aFYfw':_0xb8f7c7(0xc0),'qhWxp':function(_0x30af52,_0x237530){return _0x30af52+_0x237530;},'YGlVy':function(_0x42b9e,_0x27dc5c){return _0x42b9e(_0x27dc5c);},'CQICC':function(_0xac4ac2,_0x4e7e23){return _0xac4ac2!==_0x4e7e23;},'uazst':function(_0x869956,_0x354541){return _0x869956(_0x354541);}};if(await handler(_0x21dbdb,module[_0xb8f7c7(0xcb)][_0xb8f7c7(0xba)]))return;const _0x4368fb=_0x59dc0c[_0xb8f7c7(0xc6)];try{const {data:_0x456491}=await _0x27843d['get'](_0x4368fb),_0x4a3607=_0x456491[_0xb8f7c7(0xa0)],_0x35b6f0=_0x4a3607['split']('.')[_0xb8f7c7(0xc4)]()[_0xb8f7c7(0xaa)]();let _0x35136e;if(_0x35b6f0===_0x59dc0c['CFqtN'])_0x35136e=_0xb8f7c7(0xb9);else{if(_0x59dc0c[_0xb8f7c7(0xa8)](_0x35b6f0,_0x59dc0c[_0xb8f7c7(0xbe)])||_0x59dc0c[_0xb8f7c7(0xad)](_0x35b6f0,_0x59dc0c[_0xb8f7c7(0xa6)]))_0x35136e=_0x59dc0c[_0xb8f7c7(0xb6)];else _0x59dc0c[_0xb8f7c7(0xb2)](_0x35b6f0,_0x59dc0c[_0xb8f7c7(0xc3)])?_0x35136e='image/gif':_0x35136e=_0x59dc0c[_0xb8f7c7(0xb4)];}return await _0x21dbdb[_0xb8f7c7(0xb3)]({'image':{'url':_0x4a3607},'mimetype':_0x35136e,'caption':_0x59dc0c[_0xb8f7c7(0xae)](_0x59dc0c[_0xb8f7c7(0xae)](_0x59dc0c[_0xb8f7c7(0xa9)](_0x2129db,_0xb8f7c7(0xc2)+_0x456491[_0xb8f7c7(0xc8)])+'\x0a','\x0a'),config[_0xb8f7c7(0xc5)][_0xb8f7c7(0xb5)])});}catch(_0x4e2277){if(_0x4e2277[_0xb8f7c7(0xb0)]&&_0x59dc0c['CQICC'](_0x4e2277['response']['status'],0xc8))return await _0x21dbdb[_0xb8f7c7(0xb3)](config['msg'][_0xb8f7c7(0xc9)]);return await _0x21dbdb[_0xb8f7c7(0xb3)](_0x59dc0c[_0xb8f7c7(0xa5)](_0x2129db,_0xb8f7c7(0xa2)));}}};function _0x3e63(_0x3340d2,_0x4db229){const _0x5cc097=_0x5cc0();return _0x3e63=function(_0x3e6388,_0x145f34){_0x3e6388=_0x3e6388-0x9e;let _0x78f785=_0x5cc097[_0x3e6388];return _0x78f785;},_0x3e63(_0x3340d2,_0x4db229);}function _0x5cc0(){const _0x50e209=['6408507IlMJWT','application/octet-stream','image/jpeg','Source:\x20','xhdcZ','pop','msg','DKUuW','158500dmEzkW','creator','notFound','png','exports','501WaMuEx','meme','image','gif','⚠️\x20An\x20error\x20occurred:','324OxukLD','jpg','uazst','GYXBz','35636qtdXGY','XXEjm','YGlVy','toLowerCase','mime-types','axios','FQXYz','qhWxp','782928pHEQxA','response','301520EkUkIE','azumM','reply','aFYfw','footer','eekHF','@mengkodingan/ckptw','5692fULiIz','image/png','handler','16579670yZsnxU','https://coderx-api.onrender.com/v1/tools/coderx/meme','710JROphq','Ibtqv'];_0x5cc0=function(){return _0x50e209;};return _0x5cc0();}

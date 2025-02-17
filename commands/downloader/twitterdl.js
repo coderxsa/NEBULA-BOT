@@ -1,0 +1,24 @@
+/*
+        ███    ██ ███████ ██████  ██    ██ ██       █████  
+        ████   ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██ ██  ██ █████   ██████  ██    ██ ██      ███████ 
+        ██  ██ ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██   ████ ███████ ██████   ██████  ███████ ██   ██                                               
+
+        *
+           * @project_name : Nebula
+           * @author : CODERXSA
+           * @youtube : https://www.youtube.com/@coderxsa
+           * @instagram : https://www.instagram.com/coderx.sa
+           * @description : So, if you remember me, I made Anita. Unfortunately, she's no longer working. RIP. My main code got corrupted, lost everything, so I made Nebula.
+           * @version : 1.0.0
+           * Donation : https://pay.yoco.com/coderx
+           * 
+           * For all my GitHub bots, I typically only check and update them when I have the time. My primary focus is on my main bots.
+           *
+           * Licensed under the GPL-3.0 License;
+        * 
+           * Created By CODERX.
+           * © 2025 Nebula.
+    */
+const _0x40705c=_0x4f9d;function _0x4f9d(_0x2fc864,_0x17259b){const _0x5e6a8e=_0x5e6a();return _0x4f9d=function(_0x4f9d8d,_0x25e515){_0x4f9d8d=_0x4f9d8d-0x8d;let _0x24d0e4=_0x5e6a8e[_0x4f9d8d];return _0x24d0e4;},_0x4f9d(_0x2fc864,_0x17259b);}(function(_0x31b6bf,_0x3536d0){const _0x12ad0b=_0x4f9d,_0x2fc276=_0x31b6bf();while(!![]){try{const _0x1d0033=-parseInt(_0x12ad0b(0xa9))/0x1*(parseInt(_0x12ad0b(0xad))/0x2)+parseInt(_0x12ad0b(0xb8))/0x3+parseInt(_0x12ad0b(0xa8))/0x4*(parseInt(_0x12ad0b(0xa7))/0x5)+-parseInt(_0x12ad0b(0xa6))/0x6+parseInt(_0x12ad0b(0x9b))/0x7+parseInt(_0x12ad0b(0x91))/0x8*(-parseInt(_0x12ad0b(0x8e))/0x9)+parseInt(_0x12ad0b(0x96))/0xa;if(_0x1d0033===_0x3536d0)break;else _0x2fc276['push'](_0x2fc276['shift']());}catch(_0x594874){_0x2fc276['push'](_0x2fc276['shift']());}}}(_0x5e6a,0xad447));const _0x592be4=require(_0x40705c(0xaf)),_0x5d61b0=require(_0x40705c(0xa4));module['exports']={'name':'twitterdl','aliases':[_0x40705c(0xb1),_0x40705c(0xa2),_0x40705c(0xb4)],'category':'downloader','handler':{'coin':[0xa,_0x40705c(0xb7),0x1]},'code':async _0x173709=>{const _0x4a08ab=_0x40705c,_0x2001a4={'wEQVW':function(_0x370b87,_0x5d4480,_0x168890){return _0x370b87(_0x5d4480,_0x168890);},'uqFQg':function(_0x2184ff,_0x5331fd){return _0x2184ff+_0x5331fd;},'EExjD':_0x4a08ab(0xae),'ulOWP':function(_0x25ba76,_0x38059d){return _0x25ba76(_0x38059d);},'txCWp':_0x4a08ab(0x9f),'iomkg':_0x4a08ab(0xa5),'eaUdW':_0x4a08ab(0x97),'cArwC':_0x4a08ab(0x9d),'HnUjp':'⚠️\x20An\x20error\x20occurred\x20while\x20processing\x20your\x20request.\x20Please\x20try\x20again\x20later.'};if(await _0x2001a4['wEQVW'](handler,_0x173709,module[_0x4a08ab(0xb6)]['handler']))return;const _0x58135f=_0x173709[_0x4a08ab(0xa3)][0x0]||null;if(!_0x58135f)return await _0x173709[_0x4a08ab(0x92)](_0x2001a4['uqFQg'](_0x4a08ab(0x9e),_0x4a08ab(0xaa)+_0x173709[_0x4a08ab(0xa1)][_0x4a08ab(0x90)]+_0x173709[_0x4a08ab(0xa1)][_0x4a08ab(0x9a)]+_0x4a08ab(0x99)));const _0x3015f5=await tools[_0x4a08ab(0xab)][_0x4a08ab(0xb2)](_0x58135f);if(!_0x3015f5)return await _0x173709[_0x4a08ab(0x92)](_0x2001a4['EExjD']);try{const _0x200bde='https://coderx-api.onrender.com/v1/downloaders/coderx/download/twitter?url='+_0x2001a4['ulOWP'](encodeURIComponent,_0x58135f),_0x5690cf=await _0x592be4[_0x4a08ab(0xb0)](_0x200bde),_0x8c2e33=_0x5690cf[_0x4a08ab(0xac)];if(_0x8c2e33[_0x4a08ab(0x8d)]){const _0x4b212b=_0x8c2e33[_0x4a08ab(0x94)]||_0x8c2e33[_0x4a08ab(0xb3)];if(_0x4b212b)return await _0x173709[_0x4a08ab(0x92)]({'video':{'url':_0x4b212b},'mimetype':_0x5d61b0[_0x4a08ab(0x95)](_0x2001a4[_0x4a08ab(0x8f)]),'caption':_0x4a08ab(0x98)+(_0x8c2e33[_0x4a08ab(0x9c)]||_0x2001a4['iomkg'])+_0x4a08ab(0x93)});return await _0x173709[_0x4a08ab(0x92)](_0x2001a4[_0x4a08ab(0xa0)]);}return await _0x173709[_0x4a08ab(0x92)](_0x2001a4[_0x4a08ab(0xb5)]);}catch(_0x461b32){return await _0x173709[_0x4a08ab(0x92)](_0x2001a4[_0x4a08ab(0xb9)]);}}};function _0x5e6a(){const _0x30ac65=['command','173180waYYam','description','⚠️\x20Unable\x20to\x20process\x20the\x20request.\x20Please\x20check\x20the\x20URL\x20and\x20try\x20again.','Please\x20provide\x20a\x20valid\x20Twitter\x20URL.\x0a','mp4','eaUdW','_used','twit','args','mime-types','No\x20description','4182024zGbQgx','20CFXRro','1000880ngEvwP','177369qCNaUm','Example:\x20','general','data','10rYeCuj','⚠️\x20The\x20provided\x20URL\x20is\x20invalid.','axios','get','twitter','isUrl','video_sd','twitdl','cArwC','exports','text','3223077cEkleM','HnUjp','success','396UuIetF','txCWp','prefix','106208JrkSlI','reply','\x0a\x0aPowered\x20by\x20CODERX','video_hd','lookup','7777170RkbTpy','⚠️\x20No\x20video\x20was\x20found\x20in\x20the\x20provided\x20URL.','Description:\x20','\x20https://x.com/elonmusk/status/1870901510319833540?t=Ro-vqgliEBA3ifxL_4hFig&s=19'];_0x5e6a=function(){return _0x30ac65;};return _0x5e6a();}

@@ -1,0 +1,24 @@
+/*
+        ███    ██ ███████ ██████  ██    ██ ██       █████  
+        ████   ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██ ██  ██ █████   ██████  ██    ██ ██      ███████ 
+        ██  ██ ██ ██      ██   ██ ██    ██ ██      ██   ██ 
+        ██   ████ ███████ ██████   ██████  ███████ ██   ██                                               
+
+        *
+           * @project_name : Nebula
+           * @author : CODERXSA
+           * @youtube : https://www.youtube.com/@coderxsa
+           * @instagram : https://www.instagram.com/coderx.sa
+           * @description : So, if you remember me, I made Anita. Unfortunately, she's no longer working. RIP. My main code got corrupted, lost everything, so I made Nebula.
+           * @version : 1.0.0
+           * Donation : https://pay.yoco.com/coderx
+           * 
+           * For all my GitHub bots, I typically only check and update them when I have the time. My primary focus is on my main bots.
+           *
+           * Licensed under the GPL-3.0 License;
+        * 
+           * Created By CODERX.
+           * © 2025 Nebula.
+    */
+function _0x3404(_0x534cb1,_0x108820){const _0x11d8dc=_0x11d8();return _0x3404=function(_0x340404,_0x37a7f0){_0x340404=_0x340404-0x1c2;let _0x83432a=_0x11d8dc[_0x340404];return _0x83432a;},_0x3404(_0x534cb1,_0x108820);}const _0x2ae770=_0x3404;function _0x11d8(){const _0x4ebf22=['✅\x20Successfully\x20demoted\x20from\x20admin\x20to\x20member!','prefix','demote','16LZfwBg','_used','EyNTs','tZGFJ','reply','msg','split','YEokS','contextInfo','❎\x20They\x20are\x20a\x20member!','extendedTextMessage','message','1098522ugJmWD','3FyarwW','⚠️\x20An\x20error\x20occurred:','5525KRjvmV','generateInstruction','jid','isArray','5HYTFVq','OOOcw','command','group','28068FlZEoG','1271030bmpRWb','sender','general','3096GFAqrP','mentionedJid','529kSLwmP','2403667npLOjg','dIBXr','exports','1499276NPLdlR','22qLdYIi','1557espfQT','QudDQ','text','odemote'];_0x11d8=function(){return _0x4ebf22;};return _0x11d8();}(function(_0x18f934,_0x154cfd){const _0x1fb998=_0x3404,_0x56bb4f=_0x18f934();while(!![]){try{const _0x2e13ae=-parseInt(_0x1fb998(0x1ca))/0x1*(parseInt(_0x1fb998(0x1d7))/0x2)+-parseInt(_0x1fb998(0x1e4))/0x3*(parseInt(_0x1fb998(0x1ce))/0x4)+parseInt(_0x1fb998(0x1ea))/0x5*(-parseInt(_0x1fb998(0x1e3))/0x6)+-parseInt(_0x1fb998(0x1cb))/0x7+parseInt(_0x1fb998(0x1c8))/0x8*(-parseInt(_0x1fb998(0x1d0))/0x9)+-parseInt(_0x1fb998(0x1c5))/0xa*(-parseInt(_0x1fb998(0x1cf))/0xb)+parseInt(_0x1fb998(0x1c4))/0xc*(parseInt(_0x1fb998(0x1e6))/0xd);if(_0x2e13ae===_0x154cfd)break;else _0x56bb4f['push'](_0x56bb4f['shift']());}catch(_0x32857c){_0x56bb4f['push'](_0x56bb4f['shift']());}}}(_0x11d8,0x43563));const {quote:_0x59482d}=require('@mengkodingan/ckptw');module[_0x2ae770(0x1cd)]={'name':_0x2ae770(0x1d3),'category':'owner','handler':{'botAdmin':!![],'group':!![],'owner':!![]},'code':async _0xea2b98=>{const _0x5639f7=_0x2ae770,_0x3b8c3f={'OOOcw':function(_0x4f2d14,_0x2d11f2){return _0x4f2d14>_0x2d11f2;},'EyNTs':function(_0x2b7c70,_0x3072e2){return _0x2b7c70+_0x3072e2;},'YEokS':function(_0x19ad2e,_0x41116b){return _0x19ad2e(_0x41116b);},'QudDQ':'send','dIBXr':_0x5639f7(0x1d2),'FkfvM':function(_0x69dfd3,_0x250c75){return _0x69dfd3+_0x250c75;},'CrLBj':function(_0xb8e5dd,_0x5162f4){return _0xb8e5dd(_0x5162f4);},'OnfSm':function(_0x1048fa,_0x325fe4){return _0x1048fa(_0x325fe4);},'tZGFJ':function(_0xb5a571,_0x469e23){return _0xb5a571(_0x469e23);}};if(await handler(_0xea2b98,module[_0x5639f7(0x1cd)]['handler']))return;const _0x337807=_0xea2b98[_0x5639f7(0x1c6)][_0x5639f7(0x1e8)],_0x2f3f3d=_0x337807[_0x5639f7(0x1dd)](/[:@]/)[0x0],_0x21e626=_0xea2b98[_0x5639f7(0x1dc)]?.[_0x5639f7(0x1e2)]?.[_0x5639f7(0x1e1)]?.[_0x5639f7(0x1df)]?.[_0x5639f7(0x1c9)],_0xe44c56=Array[_0x5639f7(0x1e9)](_0x21e626)&&_0x3b8c3f[_0x5639f7(0x1eb)](_0x21e626['length'],0x0)?_0x21e626[0x0]:null;if(!_0xe44c56)return await _0xea2b98[_0x5639f7(0x1db)]({'text':_0x3b8c3f[_0x5639f7(0x1d9)](_0x3b8c3f[_0x5639f7(0x1de)](_0x59482d,tools[_0x5639f7(0x1dc)][_0x5639f7(0x1e7)]([_0x3b8c3f[_0x5639f7(0x1d1)]],[_0x3b8c3f[_0x5639f7(0x1cc)]]))+'\x0a',_0x3b8c3f[_0x5639f7(0x1de)](_0x59482d,tools['msg']['generateCommandExample'](_0x3b8c3f['FkfvM'](_0xea2b98[_0x5639f7(0x1d8)][_0x5639f7(0x1d5)],_0xea2b98['_used'][_0x5639f7(0x1c2)]),'@'+_0x2f3f3d))),'mentions':[_0x337807]});try{if(await!tools[_0x5639f7(0x1c7)]['isAdmin'](_0xea2b98,_0xe44c56))return await _0xea2b98[_0x5639f7(0x1db)](_0x3b8c3f['CrLBj'](_0x59482d,_0x5639f7(0x1e0)));return await _0xea2b98[_0x5639f7(0x1c3)]()[_0x5639f7(0x1d6)]([_0xe44c56]),await _0xea2b98[_0x5639f7(0x1db)](_0x3b8c3f['OnfSm'](_0x59482d,_0x5639f7(0x1d4)));}catch(_0x2f5622){return await _0xea2b98['reply'](_0x3b8c3f[_0x5639f7(0x1da)](_0x59482d,_0x5639f7(0x1e5)));}}};
